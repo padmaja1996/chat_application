@@ -1,5 +1,5 @@
 {
-  "homepage": "http://padmaja1996.github.io/chat_application",
+  "homepage": "https://github.com/padmaja1996/chat_application",
   "name": "chat_application",
   "version": "0.1.0",
   "private": true,
@@ -15,7 +15,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d build", 
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
