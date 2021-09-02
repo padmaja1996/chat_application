@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/padmaja1996/chat_application/static/css/main.994c5f64.chunk.css",
+    "main.js": "/padmaja1996/chat_application/static/js/main.17d957b2.chunk.js",
+    "main.js.map": "/padmaja1996/chat_application/static/js/main.17d957b2.chunk.js.map",
+    "runtime-main.js": "/padmaja1996/chat_application/static/js/runtime-main.18b2fa0c.js",
+    "runtime-main.js.map": "/padmaja1996/chat_application/static/js/runtime-main.18b2fa0c.js.map",
+    "static/css/2.f83b9687.chunk.css": "/padmaja1996/chat_application/static/css/2.f83b9687.chunk.css",
+    "static/js/2.397075a3.chunk.js": "/padmaja1996/chat_application/static/js/2.397075a3.chunk.js",
+    "static/js/2.397075a3.chunk.js.map": "/padmaja1996/chat_application/static/js/2.397075a3.chunk.js.map",
+    "index.html": "/padmaja1996/chat_application/index.html",
+    "static/css/2.f83b9687.chunk.css.map": "/padmaja1996/chat_application/static/css/2.f83b9687.chunk.css.map",
+    "static/css/main.994c5f64.chunk.css.map": "/padmaja1996/chat_application/static/css/main.994c5f64.chunk.css.map",
+    "static/js/2.397075a3.chunk.js.LICENSE.txt": "/padmaja1996/chat_application/static/js/2.397075a3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.18b2fa0c.js",
+    "static/css/2.f83b9687.chunk.css",
+    "static/js/2.397075a3.chunk.js",
+    "static/css/main.994c5f64.chunk.css",
+    "static/js/main.17d957b2.chunk.js"
+  ]
+}
